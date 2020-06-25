@@ -30,7 +30,11 @@ If you find this repository useful in your research, please consider citing:
 
 ### Results
 
-<img src="images/StrategyRMLU.svg">
+<p align='center'>
+	<img align='left' width='45%' src="images/StrategyRMLU.svg">
+	<img align='right' width='45%' src="images/StrategyRMLU.svg">
+</p>
+
 
 ### Inputs Format
 
