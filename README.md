@@ -44,8 +44,9 @@ If you find this repository useful in your research, please consider citing:
 	<img align='left' width='47%' src='images/ConfMatrixRML.svg'>
 	<img align='right' width='47%' src='images/ConfMatrixBAUM-1s.svg'>
 </p>
-<div><br><br><br><br><br><br><br><br><br><br><br><br></div>
-**(a) RML dataset**           |  **(b) BAUM-1 dataset**
+<div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+
+(a) RML dataset           |  (b) BAUM-1 dataset
 :-------------------------:|:-------------------------:
 
 ### Inputs Format
