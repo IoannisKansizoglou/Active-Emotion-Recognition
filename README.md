@@ -32,6 +32,8 @@ If you find this repository useful in your research, please consider citing:
 
 * Training Strategies
 
+![alt-text-1](images/StrategyRMLU.svg) ![alt-text-2](images/StrategyBAUM-1sU.svg)
+
 ![](images/StrategyRMLU.svg)  |  ![](images/StrategyBAUM-1sU.svg)
 :-------------------------:|:-------------------------:
 **(a) RML dataset**           |  **(b) BAUM-1 dataset**
