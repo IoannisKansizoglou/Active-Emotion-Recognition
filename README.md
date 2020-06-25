@@ -32,6 +32,7 @@ If you find this repository useful in your research, please consider citing:
 
 * Training Strategies
 
+<br>
 <p align='center'>
 	<img align='left' width='47%' src='images/StrategyRMLU.svg'>
 	<img align='right' width='47%' src='images/StrategyBAUM-1sU.svg'>
@@ -40,22 +41,13 @@ If you find this repository useful in your research, please consider citing:
 
 * Confusion Matrices
 
+<br>
 <p align='center'>
 	<img align='left' width='47%' src='images/ConfMatrixRML.svg'>
 	<img align='right' width='47%' src='images/ConfMatrixBAUM-1s.svg'>
 </p>
 <div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
 
-<table style="width:100%" style="border-collapse: collapse; border: none;">
-  <tr style="border-collapse: collapse; border: none;">
-    <td style="border: none;"><img align='centre' width='90%' src='images/ConfMatrixRML.svg'></td>
-    <td style="border: none;"><img align='centre' width='90%' src='images/ConfMatrixBAUM-1s.svg'></td>
-  </tr>
-  <tr style="border-collapse: collapse; border: none;">
-    <td style="border: none;">**(a) RML dataset**</td>
-    <td style="border: none;">**(b) BAUM-1s dataset**</td>
-  </tr>
-</table>
 
 ### Inputs Format
 
