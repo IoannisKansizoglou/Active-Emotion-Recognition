@@ -1,0 +1,9 @@
+{
+    "num_epochs": 1,
+    "batch_size": 32,
+    "learning_rate": 1e-5,
+    "decay_step": 10,
+    "decay_rate": 0.1,
+    "modality": "audio",
+    "speaker": "s1"
+}
