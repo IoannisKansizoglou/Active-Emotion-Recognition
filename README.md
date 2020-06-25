@@ -33,10 +33,11 @@ If you find this repository useful in your research, please consider citing:
 * Training Strategies
 
 <p align='center'>
-	<img align='left' width='45%' src='images/StrategyRMLU.svg'>
-	<img align='right' width='45%' src='images/StrategyBAUM-1sU.svg'>
+	<img align='left' width='47%' src='images/StrategyRMLU.svg'>
+	<img align='right' width='47%' src='images/StrategyBAUM-1sU.svg'>
+	<figcaption>Fig.1 - RML dataset</figcaption>
 </p>
-
+<div><br><br><br><br><br><br><br><br><br><br><br><br></div>
 
 * Confusion Matrices
 
