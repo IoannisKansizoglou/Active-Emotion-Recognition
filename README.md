@@ -15,6 +15,10 @@ If you find this repository useful in your research, please consider citing:
       year={2019}
     }
 
+### Prerequisites
+
+Vggish weights converted to PyTorch from [this](https://github.com/tcvrick/audioset-vggish-tensorflow-to-pytorch) repository and included in ```./data/weights/``` path with name ```pytorch_vggish.pth```.
+
 Provided code is tested in Python 3.7.4 and Pytorch 1.4.0.
 
 ### Key Notes from Paper
