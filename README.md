@@ -30,11 +30,9 @@ If you find this repository useful in your research, please consider citing:
 
 ### Results
 
-<p align='center'>
-	<img align='left' width='45%' src="images/StrategyRMLU.svg">
-	<img align='right' width='45%' src="images/StrategyRMLU.svg">
-</p>
-
+![](images/StrategyRMLU.svg)  |  ![](images/StrategyRMLU.svg)
+:-------------------------:|:-------------------------:
+**(a) RML dataset**           |  **(b) BAUM-1 dataset**
 
 ### Inputs Format
 
