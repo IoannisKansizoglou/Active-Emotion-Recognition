@@ -46,7 +46,7 @@ If you find this repository useful in your research, please consider citing:
 </p>
 <div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
 
-<table style="width:100%" border="none">
+<table style="width:100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td><img align='centre' width='90%' src='images/ConfMatrixRML.svg'></td>
     <td><img align='centre' width='90%' src='images/ConfMatrixBAUM-1s.svg'></td>
