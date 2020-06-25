@@ -17,6 +17,10 @@ If you find this repository useful in your research, please consider citing:
 
 Provided code is tested in Python 3.7.4 and Pytorch 1.4.0.
 
+### Key Notes from Paper
+
+
+
 ### Inputs Format
 
 The ```params.json``` sets the training hyper-parameters, the exploited modality from the set ```{"audio", "visual", "fusion"}``` and the name of the speaker that is subtracted from the training dataset for evaluation. Note that *Leave-One-Speaker-Out* and *Leave-One-Speakers-Group-Out* schemes are adopted.
