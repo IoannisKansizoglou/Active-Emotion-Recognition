@@ -1,4 +1,4 @@
-# An Active Learning Paradigm for Online Audio-Visual Emotion Recognition
+## An Active Learning Paradigm for Online Audio-Visual Emotion Recognition
 
 This repository contains the **official code** for developing an online emotion recognition classifier using audio-visual modalities and deep reinforcement learning technigues introduced [here](https://ieeexplore.ieee.org/document/8937495).
 
@@ -14,3 +14,13 @@ If you find this repository useful in your research, please consider citing:
       journal={IEEE Transactions on Affective Computing},
       year={2019}
     }
+
+Provided code is tested in Python 3.7.4 and Pytorch 1.4.0.
+
+### Inputs Format
+
+The following models are trained through two .csv files, including the paths of the training and evaluation samples, respectively. Those files shall be stored inside  
+
+### Usage
+
+In params.json file you can set the 
