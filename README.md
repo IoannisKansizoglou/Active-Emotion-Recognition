@@ -25,7 +25,7 @@ If you find this repository useful in your research, please consider citing:
 
 ### Results
 
-
+<img src="images/StrategyRMLU.svg">
 
 ### Inputs Format
 
