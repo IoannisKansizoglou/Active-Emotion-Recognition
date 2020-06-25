@@ -19,8 +19,10 @@ Provided code is tested in Python 3.7.4 and Pytorch 1.4.0.
 
 ### Inputs Format
 
-The following models are trained through two .csv files, including the paths of the training and evaluation samples, respectively. Those files shall be stored inside ```./data/speaker_folder```, where ```speaker_folder``` shall be given to the ```"speaker"``` variable in the *params.json file*.
+The ```params.json``` sets the training hyper-parameters, the exploited modality from the set ```{"audio", "visual", "fusion"}``` and the name of the speaker that is subtracted from the training dataset for evaluation. Note that *Leave-One-Speaker-Out* and *Leave-One-Speakers-Group_Out* schemes are adopted.
+
+The following models are trained through two .csv files, including the paths of the training and evaluation samples, respectively. Those files shall be stored inside ```./data/speaker_folder```, where ```speaker_folder``` shall be given to the ```"speaker"``` variable in the ```params.json``` file.
 
 ### Usage
 
-In  you can set the 
+
