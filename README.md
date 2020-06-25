@@ -3,7 +3,6 @@
 	<h1>
     	An Active Learning Paradigm for Online Audio-Visual Emotion Recognition
 	</h1>
-    	
 </p>
 
 This repository contains the **official code** for developing an online emotion recognition classifier using audio-visual modalities and deep reinforcement learning techniques introduced [here](https://ieeexplore.ieee.org/document/8937495).
