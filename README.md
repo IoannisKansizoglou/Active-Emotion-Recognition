@@ -35,15 +35,18 @@ If you find this repository useful in your research, please consider citing:
 <p align='center'>
 	<img align='left' width='47%' src='images/StrategyRMLU.svg'>
 	<img align='right' width='47%' src='images/StrategyBAUM-1sU.svg'>
-	<figcaption>Fig.1 - RML dataset</figcaption>
 </p>
 <div><br><br><br><br><br><br><br><br><br><br><br><br></div>
 
 * Confusion Matrices
 
-![](images/ConfMatrixRML.svg)  |  ![](images/ConfMatrixBAUM-1s.svg)
-:-------------------------:|:-------------------------:
+<p align='center'>
+	<img align='left' width='47%' src='images/ConfMatrixRML.svg'>
+	<img align='right' width='47%' src='images/ConfMatrixBAUM-1s.svg'>
+</p>
+<div><br><br><br><br><br><br><br><br><br><br><br><br></div>
 **(a) RML dataset**           |  **(b) BAUM-1 dataset**
+:-------------------------:|:-------------------------:
 
 ### Inputs Format
 
