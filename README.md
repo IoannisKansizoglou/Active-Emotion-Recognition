@@ -1,8 +1,7 @@
 <p align='right'>
 	<img align='right' width='15%' src='images/TeaserImage.svg'>
 	<h1>
-    	An Active Learning Paradigm for Online Audio-Visual
-	<br> Emotion Recognition
+    	An Active Learning Paradigm for Online Audio-Visual Emotion Recognition
 	</h1>
     	
 </p>
