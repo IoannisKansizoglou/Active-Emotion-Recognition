@@ -1,6 +1,6 @@
 ## An Active Learning Paradigm for Online Audio-Visual Emotion Recognition
 
-This repository contains the **official code** for developing an online emotion recognition classifier using audio-visual modalities and deep reinforcement learning technigues introduced [here](https://ieeexplore.ieee.org/document/8937495).
+This repository contains the **official code** for developing an online emotion recognition classifier using audio-visual modalities and deep reinforcement learning techniques introduced [here](https://ieeexplore.ieee.org/document/8937495).
 
 Combined with corresponding repositories for preprocessing unimodal and multi-modal emotional datasets, like [AffectNet](http://mohammadmahoor.com/affectnet/), [IEMOCAP](https://sail.usc.edu/iemocap/), [RML](http://shachi.org/resources/4965), [BAUM-1](https://archive.ics.uci.edu/ml/datasets/BAUM-1), to produce the papers results.
 
@@ -22,6 +22,8 @@ If you find this repository useful in your research, please consider citing:
 * Provided code is tested in Python 3.7.4 and Pytorch 1.4.0.
 
 ### Key Notes from Paper
+
+### Results
 
 
 
