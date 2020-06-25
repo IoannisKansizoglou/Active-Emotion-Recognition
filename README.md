@@ -2,9 +2,9 @@
 
 This repository contains the **official code** for developing an online emotion recognition classifier using audio-visual modalities and deep reinforcement learning technigues introduced [here](https://ieeexplore.ieee.org/document/8937495).
 
-Combined with corresponding repositories for preprocessing unimodal and multi-modal emotional datasets, like (AffectNet)[http://mohammadmahoor.com/affectnet/], (IEMOCAP)[https://sail.usc.edu/iemocap/], (RML)[http://shachi.org/resources/4965], (BAUM-1)[https://archive.ics.uci.edu/ml/datasets/BAUM-1], to produce the papers results.
+Combined with corresponding repositories for preprocessing unimodal and multi-modal emotional datasets, like [AffectNet](http://mohammadmahoor.com/affectnet/), [IEMOCAP](https://sail.usc.edu/iemocap/), [RML](http://shachi.org/resources/4965), [BAUM-1](https://archive.ics.uci.edu/ml/datasets/BAUM-1), to produce the papers results.
 
-Preprocessing codes for AffectNet, IEMOCAP and RML are provided by the authors, (here)[https://github.com/IoannisKansizoglou/AffectNet-preprocess], (here)[https://github.com/IoannisKansizoglou/Iemocap-preprocess] and (here)[https://github.com/IoannisKansizoglou/RML-preprocess], respectively.
+Preprocessing codes for AffectNet, IEMOCAP and RML are provided by the authors, [here](https://github.com/IoannisKansizoglou/AffectNet-preprocess), [here](https://github.com/IoannisKansizoglou/Iemocap-preprocess) and [here](https://github.com/IoannisKansizoglou/RML-preprocess), respectively.
 
 If you find this repository useful in your research, please consider citing:
 
