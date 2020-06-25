@@ -37,7 +37,7 @@ TO BE UPDATED
 	<img align='left' width='47%' src='images/StrategyRMLU.svg'>
 	<img align='right' width='47%' src='images/StrategyBAUM-1sU.svg'>
 </p>
-<div><br><br><br><br><br><br><br><br><br><br><br><br></div>
+<div><br><br><br><br><br><br><br><br><br><br><br></div>
 
 ### Inputs Format
 
