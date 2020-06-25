@@ -48,12 +48,12 @@ If you find this repository useful in your research, please consider citing:
 
 <table style="width:100%">
   <tr>
-    <td><img align='left' width='47%' src='images/ConfMatrixRML.svg'></td>
-    <td><img align='right' width='47%' src='images/ConfMatrixBAUM-1s.svg'></td>
+    <td><img align='centre' width='90%' src='images/ConfMatrixRML.svg'></td>
+    <td><img align='centre' width='90%' src='images/ConfMatrixBAUM-1s.svg'></td>
   </tr>
   <tr>
-    <td>(a) RML dataset</td>
-    <td>(b) BAUM-1s dataset</td>
+    <td>**(a) RML dataset**</td>
+    <td>**(b) BAUM-1s dataset**</td>
   </tr>
 </table>
 
