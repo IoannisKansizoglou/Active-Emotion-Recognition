@@ -30,7 +30,15 @@ If you find this repository useful in your research, please consider citing:
 
 ### Results
 
-![](images/StrategyRMLU.svg)  |  ![](images/StrategyRMLU.svg)
+* Training Strategies
+
+![](images/StrategyRMLU.svg)  |  ![](images/StrategyBAUM-1sU.svg)
+:-------------------------:|:-------------------------:
+**(a) RML dataset**           |  **(b) BAUM-1 dataset**
+
+* Confusion Matrices
+
+![](images/ConfMatrixRML.svg)  |  ![](images/ConfMatrixBAUM-1s.svg)
 :-------------------------:|:-------------------------:
 **(a) RML dataset**           |  **(b) BAUM-1 dataset**
 
